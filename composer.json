@@ -1,0 +1,17 @@
+{
+  "name": "snipcart/snipcart-kirby-integration",
+  "description": "Demo code for a Snipcart-powered Kirby CMS e-commerce project.",
+  "type": "project",
+  "require": {
+    "ext-curl": "*",
+    "ext-mbstring": "*"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Snipcart folks",
+      "email": "geeks@snipcart.com"
+    }
+  ],
+  "minimum-stability": "stable"
+}

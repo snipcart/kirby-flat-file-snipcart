@@ -1,0 +1,9 @@
+Name: Blaster
+----
+Price: 23.50
+----
+Identifier: 2
+----
+Weight: 10
+----
+Description: Stormtrooper blaster

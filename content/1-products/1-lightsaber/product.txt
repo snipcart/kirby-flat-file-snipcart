@@ -1,0 +1,21 @@
+Name: Lightsaber
+
+----
+
+Price: 60
+
+----
+
+Identifier: 1
+
+----
+
+Weight: 10
+
+----
+
+Description: First Luke skywalker lightsaber
+
+----
+
+Title: lightsaber

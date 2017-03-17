@@ -1,0 +1,25 @@
+title: Product
+
+pages: true
+
+fields:
+  name:
+    label: Name
+    type:  text
+  
+  Price:
+    label: Price
+    type:  number
+  
+  Identifier:
+    label: Identifier
+    type:  text
+  
+  Description:
+    label: Description
+    type:  text
+  
+  Weight:
+    label: Weight
+    type:  number
+
