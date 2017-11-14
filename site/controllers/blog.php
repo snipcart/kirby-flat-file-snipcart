@@ -21,3 +21,4 @@ return function($site, $pages, $page) {
   ];
 
 };
+?>
