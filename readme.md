@@ -1,9 +1,17 @@
-![kirby-cms-demo-store](https://snipcart.com/media/10168/kirby-cms-demo-store.png)
+![kirby-cms-demo-store](https://snipcart.com/media/204101/kirby.png)
 
-This repo contains all the code used for our e-commerce tutorial with Kirby's fast, flexible file-based CMS.
+Flat-file CMS are simple, no database CMS that could save you a couple of headaches.
 
-> Read the full tutorial: [Kirby CMS Tutorial: Flat File E-Commerce on a Lightweight PHP CMS](https://snipcart.com/blog/flat-file-cms-php-kirby-tutorial)
+In this tutorial, we provide:
 
-> See the live demo: [Kirby + Snipcart demo site](https://kirby-snipcart.herokuapp.com/)
+- A definition of what a file-based CMS is + a comparison with database-driven CMS.
+
+- A Kirby CMS tutorial, for an e-commerce site with a lightweight flat file PHP CMS.
+
+> Read the full tutorial [here](https://snipcart.com/blog/flat-file-cms-php-kirby-tutorial)
+
+> See the live demo [here](https://kirby-snipcart.herokuapp.com/)
+
+Enjoy folks!
 
 Questions? Drop a comment on the post, or ping us at geeks@snipcart.com.
